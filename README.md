@@ -8,9 +8,7 @@
 <p>
   Hi 👋, I'm Rodrigo! A passionate Mobile Developer student from Brazil.
 
-  - 🌱 I’m currently studying Mobile and Web Development and Back-End at Alura and Coderhouse
-
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with Mobile Development and make amazing apps.
+  - 🌱 I’m currently studying Software Engineering in FIAP
 </p>
 
 <!-- Dropdown -->
