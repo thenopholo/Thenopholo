@@ -35,7 +35,7 @@
 <!-- Portfolio -->
 ## Portfolio:
 - [Flutter - TODO App](https://github.com/Thenopholo/todo-app-hive-db)
-- [Flutter - EVEO App](https://github.com/Thenopholo/prototipo-e)
+- [Dart CLI](https://github.com/thenopholo/dart_cli)
 
 <!-- GIF -->
 ![giphy](https://github.com/Thenopholo/Thenopholo/assets/131309730/0e5adefb-3c31-4d37-939c-b06f44238150)
