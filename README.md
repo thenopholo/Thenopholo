@@ -98,7 +98,7 @@
         </a>
       </p>
       <p>
-        Este é um projeto vencedor do hackathon Global Solution, proposto pela FIAP para alunos do curso de Engenharia de Software.
+        Este é o projeto vencedor do hackathon Global Solution, proposto pela FIAP para alunos do curso de Engenharia de Software.
       </p>
     </td>
   </tr>
