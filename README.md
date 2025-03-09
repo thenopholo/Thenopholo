@@ -102,6 +102,30 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Cidades e Estados em Go</h3>
+      <p align="center">
+        <a href="https://github.com/thenopholo/cidade_estado_api" target="_blank">
+          <img src="https://img.shields.io/badge/Código-FF4500?style=for-the-badge&logo=github&logoColor=white" alt="Repositório"/>
+        </a>
+      </p>
+      <p>
+Este projeto é uma API REST que fornece informações sobre estados brasileiros. A API consome dados da Brasil API, processando e disponibilizando essas informações através de endpoints RESTful.
+      </p>
+    </td>
+<!--     <td width="50%">
+      <h3 align="center">Echo Moto Website</h3>
+      <p align="center">
+        <a href="https://github.com/thenopholo/echomoto-website" target="_blank">
+          <img src="https://img.shields.io/badge/Código-FF4500?style=for-the-badge&logo=github&logoColor=white" alt="Repositório"/>
+        </a>
+      </p>
+      <p>
+        Este é um projeto vencedor do hackathon Global Solution, proposto pela FIAP para alunos do curso de Engenharia de Software.
+      </p>
+    </td> -->
+  </tr>
 </table>
 <!-- Habilidades -->
 <h2>💻 Stack Tecnológica</h2>
