@@ -27,7 +27,7 @@
 <details>
   <summary><h2>👨‍💻 Sobre Mim</h2></summary>
   <p>
-    Com 31 anos e baseado no Brasil, sou um desenvolvedor multidisciplinar com experiência em:
+    Com 31 anos e morando no Brasil, sou um desenvolvedor multidisciplinar com experiência em:
   </p>
   <ul>
     <li>🔹 Desenvolvimento mobile com Flutter/Dart</li>
