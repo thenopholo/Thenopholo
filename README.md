@@ -49,11 +49,13 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thenopholo&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
+<div style="margin-top: 5px;">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thenopholo/Thenopholo/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thenopholo/Thenopholo/output/pacman-contribution-graph.svg">
   <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/thenopholo/Thenopholo/output/pacman-contribution-graph.svg">
 </picture>
+</div>
 
 <h2>Projetos em Destaque</h2>
 <table>
@@ -145,6 +147,5 @@ Este projeto é uma API REST que fornece informações sobre estados brasileiros
     🏅 Desenvolvimento em Go
     Certificados
   </p> -->
-
 
 </div>
