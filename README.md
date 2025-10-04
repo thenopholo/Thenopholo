@@ -119,17 +119,17 @@
 Este projeto é uma API REST que fornece informações sobre estados brasileiros. A API consome dados da Brasil API, processando e disponibilizando essas informações através de endpoints RESTful.
       </p>
     </td>
-<!--     <td width="50%">
-      <h3 align="center">Echo Moto Website</h3>
+    <td width="50%">
+      <h3 align="center">Go Shorty</h3>
       <p align="center">
-        <a href="https://github.com/thenopholo/echomoto-website" target="_blank">
+        <a href="https://github.com/thenopholo/go_shorty" target="_blank">
           <img src="https://img.shields.io/badge/Código-FF4500?style=for-the-badge&logo=github&logoColor=white" alt="Repositório"/>
         </a>
       </p>
       <p>
-        Este é um projeto vencedor do hackathon Global Solution, proposto pela FIAP para alunos do curso de Engenharia de Software.
+        Mais do que apenas um encurtador de URLs, este é um estudo de caso sobre boas práticas de desenvolvimento, arquitetura de software e automação com Docker.
       </p>
-    </td> -->
+    </td>
   </tr>
 </table>
 
